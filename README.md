@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JARVIS - Voice Assistant
 
 A desktop voice assistant for Windows (also works on macOS/Linux). Jarvis listens to your
@@ -71,3 +72,6 @@ the recognition language, speaking speed and preferred voice.
 - **"I can't access the microphone":** check Windows Settings > Privacy > Microphone, and that PyAudio installed.
 - **"I can't reach the speech recognition service":** speech recognition uses Google's online service, so an internet connection is required.
 - **Jarvis mishears you:** set `SPEECH_LANGUAGE` in `config.py` (e.g. `en-US`) and speak after the status shows LISTENING.
+=======
+# project1
+>>>>>>> 924fc6539086720e152e13171cc3192ea4aa0dee
